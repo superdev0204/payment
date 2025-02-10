@@ -1,3 +1,3 @@
 # payment
 
-paypal: romaradchenko01@gmail.com
+paypal: d.kapexhiu@stema.al
